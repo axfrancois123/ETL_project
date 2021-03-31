@@ -27,10 +27,9 @@ With this in mind, we created [schema](https://github.com/axfrancois123/ETL_proj
 
 After the tables were created, we connected to the local database and loaded the data from our DataFrames into the database. 
 
-<img src="https://github.com/axfrancois123/ETL_project/blob/main/Resources/db_connect.png" width="400"/>
+<img src="https://github.com/axfrancois123/ETL_project/blob/main/Resources/db_connect.png" width="600"/>
 
-![db_connect](https://github.com/axfrancois123/ETL_project/blob/main/Resources/db_connect.png)
 
 The data was then read from the SQL database to confirm data had been loaded properly. 
 
-![final_tables](https://github.com/axfrancois123/ETL_project/blob/main/Resources/final_tables.png)
+<img src="https://github.com/axfrancois123/ETL_project/blob/main/Resources/final_tables.png" width="600"/>
